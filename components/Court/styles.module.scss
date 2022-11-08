@@ -1,0 +1,23 @@
+.wrapper {
+  background-color: #e49431;
+  border: 4px solid white;
+  height: calc(100vw - 16px);
+  margin: 16px;
+  position: relative;
+  width: 100vw;
+
+  .line {
+    border-bottom: 4px solid white;
+    height: 33%;
+    right: 0;
+    position: absolute;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    height: calc(40vw - 16px);
+    width: 40vw;
+  }
+}

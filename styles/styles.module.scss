@@ -1,0 +1,17 @@
+.wrapper {
+  align-items: center;
+  background-color: #376746;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.controls {
+  background-color: #164927;
+  border: 2px solid white;
+  color: white;
+  display: flex;
+  gap: 1rem;
+  padding: 16px;
+}

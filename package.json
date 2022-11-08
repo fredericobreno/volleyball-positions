@@ -19,7 +19,8 @@
   },
   "devDependencies": {
     "husky": "4.0",
-    "prettier-standard": "^16.4.1"
+    "prettier-standard": "^16.4.1",
+    "sass": "^1.55.0"
   },
   "prettier": {
     "trailingComma": "all",
